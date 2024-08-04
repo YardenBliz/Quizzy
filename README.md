@@ -1,5 +1,14 @@
 # Quizzy
 
+
+**The Quizzy Library in Java: Final Project in Design Patterns**
+
+**Project Description:**
+
+The Quizzy library is a comprehensive Java library designed to create, manage, and execute quizzes, developed as a final project for a course on Design Patterns. The project emphasizes the practical application of multiple design patterns including Singleton, Factory, Prototype, Data Access Object (DAO), and Builder patterns. The library is packaged as a single JAR file named `quizzy.jar` and supports English language only.
+
+Key Components:
+
 1. **il.ac.hit.quizzy Package**: This package includes all the necessary classes and interfaces to build and run quizzes.
 
 2. **IQuiz Interface**:
