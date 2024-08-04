@@ -1,0 +1,18 @@
+Quiz Type,TERMINAL
+Quiz Name,Quiz Demo
+Question Title,We Love Canada
+Question Text,Canada starts with…?
+Answer,Canada starts with the letter ‘A’.,false
+Answer,Canada starts with the letter ‘B’.,false
+Answer,Canada starts with the letter ‘C’.,true
+Answer,Canada starts with the letter ‘D’.,false
+Answer,Canada starts with the letter ‘E’.,false
+End of Question
+Question Title,We Love Australia
+Question Text,Australia starts with…?
+Answer,Australia starts with the letter ‘A’.,true
+Answer,Australia starts with the letter ‘B’.,false
+Answer,Australia starts with the letter ‘C’.,false
+Answer,Australia starts with the letter ‘D’.,false
+Answer,Australia starts with the letter ‘E’.,false
+End of Question
